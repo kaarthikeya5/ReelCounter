@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reel Counter</string>
+    <string name="start_counter">Start counter</string>
+    <string name="stop_counter">Stop counter</string>
+    <string name="reset_count">Reset count</string>
+    <string name="enable_service">Enable accessibility service</string>
+    <string name="status_idle">Counter is off</string>
+    <string name="status_counting">Counting reels…</string>
+    <string name="status_need_permission">Turn on the accessibility service first</string>
+    <string name="service_description">Counts scroll gestures in Instagram and YouTube while the counter is on. It does not read any content.</string>
+</resources>
